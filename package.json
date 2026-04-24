@@ -9,8 +9,8 @@
     "backend": "nodemon backend/index.js",
     "frontend": "cd frontend && npm run dev",
     "dev": "vite",
-    "build" "vite build",
-    "lint" "eslint .",
+    "build": "vite build",
+    "lint": "eslint .",
     "preview": "vite preview"
   },
   "keywords": [],
